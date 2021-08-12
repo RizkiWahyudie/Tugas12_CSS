@@ -1,0 +1,22 @@
+.imgparagrap{
+  float: left;
+  margin-right: 15px;
+  margin-left: 10px;
+  margin-bottom: 120px;
+}
+.slider-img{
+  margin: 10px;
+}
+.p-text{
+  column-span: all;
+  column-count: 4;
+  column-fill: balance;
+  text-align:justify;
+  column-rule: 2px solid black;
+  margin-right: 10px;
+}
+.footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
